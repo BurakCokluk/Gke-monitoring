@@ -15,7 +15,8 @@ Bu proje, Google Cloud'un Operasyonel Paketini (eski adıyla Stackdriver) kullan
 
 Aşağıda, yapılandırılmış izleme panosunun bir örneği yer almaktadır:
 
-![GKE İzleme Panosu](monitor.png)
+![GKE İzleme Panosu]<img width="1133" height="638" alt="monitor" src="https://github.com/user-attachments/assets/e5c814fa-27f9-422e-8ef8-bca224bd5bd4" />
+
 
 ---
 *Bu README dosyası, projenin amacını ve kapsamını açıklamak için bir başlangıç noktasıdır. Kendi projenizin detaylarına göre bu dosyayı güncellemeyi unutmayın.*
